@@ -1,4 +1,4 @@
-/* eslint-disable prettier/prettier */
+
 import React, { useState, createRef, useEffect } from "react";
 import "./style.scss";
 import {
