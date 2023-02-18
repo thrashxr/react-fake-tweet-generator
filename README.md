@@ -19,7 +19,7 @@ https://react-tweet-generator-five.vercel.app/
 ## Yol haritası
 
 - Responsive
-
+- Hata düzeltmeleri
 - UI geliştirmesi
 
   
@@ -36,4 +36,5 @@ Herhangi bir geri bildiriminiz varsa, lütfen info@thrashers.store adresinden ya
 ## Bilinen Hatalar
 
 - Tweeti dosya olarak kayıt ederken yazının bir kısmı gözükmüyor
-- Çift indirme butonu 
+- Çift indirme butonu
+- Kaydettikten sonra doğrulanmış rozeti yukarda gözüküuyor 
